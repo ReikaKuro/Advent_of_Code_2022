@@ -1,5 +1,5 @@
 '''
-First half of day
+First half of day 1
 '''
 with open('elfs_resources.txt', 'r') as file:
     elf_resources = file.read()
@@ -25,7 +25,7 @@ print(f'{most_calories[0]} contains most calories: {most_calories[1]}')
 
 
 '''
-Second half of day
+Second half of day 1
 '''
 
 top_three_elfs = [['', 0], ['', 0], ['', 0]]
